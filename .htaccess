@@ -1,0 +1,4 @@
+PassengerEnabled On
+PassengerAppRoot /home/s/slyuznta/passkeeper/passkeeper
+PassengerPython /home/s/slyuznta/.local/bin/python3
+PassengerUploadBufferDir /home/s/slyuznta/passkeeper/passkeeper/tmp
